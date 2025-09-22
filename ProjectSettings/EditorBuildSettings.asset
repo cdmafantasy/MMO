@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/update.unity
+    guid: 716a93f8e29923b46a65365b0daf24dd
+  - enabled: 1
+    path: Assets/Scenes/lobby.unity
+    guid: bbafdba0de7c2b24dbd7d11dc631cde6
+  - enabled: 1
+    path: Assets/Scenes/Word.unity
+    guid: 10bc7e3bf54c36543b89dee0b0c24d23
+  - enabled: 1
+    path: Assets/Scenes/null.unity
+    guid: 7c31f58a7a2ddf44fa111c78a8b9ad8f
+  - enabled: 1
+    path: Assets/Scenes/Capa.unity
+    guid: 71f0d467b80287d438028a22e62ff7e7
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelect.unity
+    guid: bb952db5c5229154c9e6559b99c51576
+  - enabled: 1
+    path: Assets/Scenes/Principal/Cidade_1.unity
+    guid: ea0a721afdde30f4ba28a7c4f2864f6c
+  - enabled: 1
+    path: Assets/Scenes/Principal/Desova.unity
+    guid: 785d4bb13b06a984fb225bdd048f78b7
+  - enabled: 1
+    path: Assets/Scenes/Principal/dungeon_Egito.unity
+    guid: d000fbe36eab9b645bb33ef3173d4057
+  - enabled: 1
+    path: Assets/Scenes/Principal/Ruinas_Interior.unity
+    guid: a42f1a450e9440d47bef80a50e6071a6
+  - enabled: 1
+    path: Assets/Scenes/Principal/Sala_Gorilla.unity
+    guid: cec89a2a14f2e2441af21b33f885ef1e
+  - enabled: 1
+    path: Assets/Scenes/Principal/Terreno_1.unity
+    guid: b6d3f81059ff22644af6287ed9bf1250
+  - enabled: 1
+    path: Assets/Scenes/Principal/Terreno_2.unity
+    guid: 7bf614ea0497f2c4cb792a4820b7dda1
+  - enabled: 1
+    path: Assets/Scenes/Principal/Terreno_3.unity
+    guid: 179f985491f3b8d4a9228a42121a9d71
+  - enabled: 1
+    path: Assets/Scenes/Principal/Village 1.unity
+    guid: 0b5d47a35b77927419368fe7cee0afc6
+  - enabled: 1
+    path: Assets/Scenes/Principal/Cidade_2.unity
+    guid: 85dce12392696a84586c268fae30eaee
+  - enabled: 1
+    path: Assets/Scenes/Cidade_2_castelo Interior.unity
+    guid: 69275caa5594f7b46a2571c7c3c46c9c
+  - enabled: 1
+    path: Assets/Scenes/Principal/Dungeon Gelo Boss.unity
+    guid: 4d7a21747bf0a2d44a73343b112c13ce
+  - enabled: 1
+    path: Assets/Scenes/Principal/Dungeon Gelo Interior.unity
+    guid: 7f781d14d2b03944689b441b52f6d20b
+  - enabled: 1
+    path: Assets/Scenes/Principal/Esgoto.unity
+    guid: 44b4155d39720c4449b49497f33b9e9d
+  - enabled: 1
+    path: Assets/Scenes/Principal/Fire Cave.unity
+    guid: 38c1b72736d990c41a770bd8e05846c9
+  - enabled: 1
+    path: Assets/Scenes/Principal/Montanhas.unity
+    guid: d9838448979a0f2468def459f318f546
+  - enabled: 1
+    path: Assets/Scenes/Principal/Terreno Bioluminescent.unity
+    guid: 112f282bcb6302049921c0dd9093a2a1
+  - enabled: 1
+    path: Assets/Scenes/Principal/Terreno Deserto final.unity
+    guid: 72aac53acd721c8428f0631eae067698
+  - enabled: 1
+    path: Assets/Scenes/Principal/Terreno Gelo.unity
+    guid: 0d14c1b372bdd8440875bd792d0146af
+  - enabled: 1
+    path: Assets/Scenes/Principal/Terreno Jungle.unity
+    guid: 92feff83423adaf4180aba1a7beea0d9
+  - enabled: 1
+    path: Assets/Scenes/Principal/Terreno_4.unity
+    guid: 699c96631d5197f489802cb33b739372
+  - enabled: 1
+    path: Assets/Scenes/Principal/Terreno_5.unity
+    guid: 120aeedc6b8d89b478f0f6c647eb14c8
+  - enabled: 1
+    path: Assets/Scenes/Principal/Terreno_6.unity
+    guid: 8007d4d7ce56f7441ae3e14e33c341d7
+  - enabled: 1
+    path: Assets/Scenes/Principal/Terreno_7.unity
+    guid: 645cd385692a84348aa7819accfc9ce3
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: f5df7e85073c3604bab09138da8151f0, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 693cc4f069f1dda44b0b30629d55d38c,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0

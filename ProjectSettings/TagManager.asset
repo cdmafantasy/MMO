@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Hand_R
+  - Hand_L
+  - Terrain
+  - Border
+  - Shadow
+  - Missile
+  - Focus
+  - PW - Prop
+  - PW - Building
+  - Synty Tree
+  - Synty Medium Farm
+  - Synty Small Farm
+  - PW - Nature
+  - Item
+  - Bullet
+  - Door
+  - Prop
+  - CinemachineTarget
+  - cockpit_capitalLaser
+  - ScreenCamera
+  - MainLight
+  - CRocks
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - BalaoChat
+  - Water
+  - UI
+  - Ground
+  - Player
+  - HitColision
+  - npc
+  - JustPlayer
+  - novo
+  - light
+  - props
+  - weapons
+  - HudAvatar
+  - Folhagem
+  - Particulas
+  - Backed
+  - Npc_comum
+  - minimap
+  - Nick
+  - invisivel
+  - Target
+  - VFX
+  - summon
+  - death
+  - terrain
+  - CamCollider
+  - skybox
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Light Layer 1
+  - Interior
+  - paredes
+  - grounds
+  - Light Layer 5
+  - Light Layer 6
+  - Light Layer 7
